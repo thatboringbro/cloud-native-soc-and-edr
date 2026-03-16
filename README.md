@@ -48,3 +48,7 @@ I used the following configuration block within the Wazuh `default` group to est
     <directories check_all="yes" report_changes="yes" realtime="yes">C:\Users\redacted\Documents\Secrets</directories>
   </syscheck>
 </agent_config>
+```
+
+### Check out the medium blog for this project: 
+[Read more on Medium](https://medium.com/@devjoel880/moving-my-soc-to-the-cloud-building-a-hybrid-edr-lab-with-wazuh-and-oci-955de164f3fa)
